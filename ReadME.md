@@ -125,7 +125,7 @@ Authorization: Bearer <TOKEN>
 Content-Type: application/json
 
 {
-  "name": "New Itemsgit checkout week4"
+  "name": "New Items"
 }
 
 
